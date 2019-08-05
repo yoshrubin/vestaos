@@ -7,7 +7,7 @@ The basic calculations are days are `30`, `31`, `yom hachodesh`(may be difficult
 We will always end up with only 3 days total because `yom hachodesh` will either be `30` or `31` days apart.
 
 
-##Challenges
+## Challenges
 
 1. How do we pick up on Onah Kavuah like if the user always has there period on either same `yom hachodesh` or same amount of days apart, there are other criteria too.
 2. 
